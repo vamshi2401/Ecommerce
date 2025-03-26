@@ -1,4 +1,5 @@
-**Business Insights from EDA** 
+**BUSINESS INSIGHTS from EDA** 
+
 **Regional across regions Insights**
 Regional differences in revenue contribution are significant; in 2024, South America accounted for the largest share at $219,352.56, followed by Europe at $166,254.63. North America ($152,313.40) and Asia ($152,074.97) produce comparable amounts of revenue, but they fall far short of South America and Europe. From 2023 to 2024, all regions saw a significant increase in growth year over year.
 With zero revenue to average revenue for the subsequent year, South America has a rising client base and efficient monetization. Perhaps it is a result of local tastes or focused advertising. Despite having similar numbers of customers, Asia and North America generate lower revenues, suggesting a chance for cross-selling or more effective product targeting.
